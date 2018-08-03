@@ -1,6 +1,6 @@
 @echo off
 echo ** 1) Checking for navigation sync **
-echo Should be > 1 for each file
+echo Should be greater than 1 for each file
 FOR %%G IN (*.nav) do (FIND /C "$SPTSMP" "%%G")
 
 echo ** 2) Checking framerate ** 
