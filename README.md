@@ -25,7 +25,7 @@ Needs the `arsf_tools` library installed (for the ENVI reader) from: https://git
 
 Can install with conda using:
 ```
-conda install -c https://data.neodaas.ac.uk/files/conda/arsf_tools
+conda install -c https://data.neodaas.ac.uk/files/conda/ arsf_tools
 ```
 
 Usage is:
