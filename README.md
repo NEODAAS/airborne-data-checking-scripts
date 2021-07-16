@@ -1,6 +1,8 @@
-# Data Checking scripts for Operations Team #
+# Airborne Data Checking Scripts #
 
-Scripts are written as Windows .bat scripts and are designed to be run by copying to the same directory as data and double clicking on them.
+A set of scripts to perform quick quality checks on airborne data after they have been acquired.
+
+Most scripts are written as Windows .bat scripts and are designed to be run by copying to the same directory as data and double clicking on them.
 The scripts are designed to give a quick indication if common problems are present in the data.
 
 ## Fenix ##
